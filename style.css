@@ -35,18 +35,18 @@ h1 {
 }
 
 .top-banner {
-    background-image: url(/top-banner.png);
+    background-image: url(/SheikhPortfolio/top-banner.png);
     background-repeat: no-repeat;
 }
 
 .dream {
-    background-image: url(/dream-bg.png);
+    background-image: url(/SheikhPortfolio/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
 
 .experience-area {
-    background-image: url(/exp-bg.png);
+    background-image: url(/SheikhPortfolio/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
